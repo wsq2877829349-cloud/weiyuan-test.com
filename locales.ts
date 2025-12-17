@@ -36,7 +36,7 @@ const PRODUCT_ASSETS: Record<string, Pick<Product, 'image' | 'images' | 'video' 
     pdfUrl: "/pdfs/SH-3.pdf"
   },
   "js-2pt": {
-    image: "/images/JS-2PT (2).png",
+    image: "/images/js2pt.png",
     pdfUrl: "/pdfs/js-2PT.pdf"
   },
   "gs-1-2": {
