@@ -68,9 +68,9 @@ const PRODUCT_ASSETS: Record<string, Pick<Product, 'image' | 'images' | 'video' 
     pdfUrl: "/pdfs/gz.pdf"
   },
   "ys-3c-flue": {
-    image: "/images/ys3c.png",
+    image: "/images/ys3c1.png",
     pdfUrl: "/pdfs/2025yd.pdf",
-    images:["/images/ys3c.png",
+    images:["/images/ys3c1.png",
       "/images/ys3c2.png",
 
     ]
