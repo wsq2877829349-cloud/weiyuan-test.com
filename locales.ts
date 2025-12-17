@@ -44,7 +44,7 @@ const PRODUCT_ASSETS: Record<string, Pick<Product, 'image' | 'images' | 'video' 
     pdfUrl: "/pdfs/gs12.pdf"
   },
   "yd-300": {
-    image: "/images/.png",
+    image: "/images/yd300.png",
     pdfUrl: "/pdfs/YD.pdf"
   },
   "gp-segment": {
@@ -250,7 +250,7 @@ export const RESOURCES: Record<'zh' | 'en', Resources> = {
       description: "安全关键基础设施测试的行业标准。配备微机控制液压伺服系统，可进行精确加载和实时数据分析。支持通过观察孔检测裂纹并自动测量残留变形。",
       specs: [
         { label: "最大载荷", value: "1000 KN" },
-        { label: "精度等级", value: "1级 (±1%)" },
+        { label: "精度等级", value: "1级" },
         { label: "测试空间", value: "1080mm x 1080mm" },
         { label: "控制系统", value: "微机伺服液压" },
       ],
